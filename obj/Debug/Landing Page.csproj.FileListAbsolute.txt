@@ -1,0 +1,10 @@
+C:\Users\Wiz\Desktop\IGME 201\Landing Page\bin\Debug\Landing Page.exe
+C:\Users\Wiz\Desktop\IGME 201\Landing Page\bin\Debug\Landing Page.exe.config
+C:\Users\Wiz\Desktop\IGME 201\Landing Page\obj\Debug\Landing Page.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\Landing Page\obj\Debug\Landing Page.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\Landing Page\obj\Debug\Landing_Page.LandingPage.resources
+C:\Users\Wiz\Desktop\IGME 201\Landing Page\obj\Debug\Landing_Page.Properties.Resources.resources
+C:\Users\Wiz\Desktop\IGME 201\Landing Page\obj\Debug\Landing Page.csproj.GenerateResource.cache
+C:\Users\Wiz\Desktop\IGME 201\Landing Page\obj\Debug\Landing Page.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\Landing Page\obj\Debug\Landing Page.exe
+C:\Users\Wiz\Desktop\IGME 201\Landing Page\obj\Debug\Landing Page.pdb
